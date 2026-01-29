@@ -1,0 +1,5 @@
+assumption,default,context,value
+studyId,show studies,"options: 'show studies', path to XML, study ID (long string)",
+models,show models,"options: 'show models', 'use models.csv', specific model name(s)",
+vm_type,2-16,"valid 'cores-ram' options: 4-32, 8-64, 16-128, 20-160, 32-256, 48-384, 64-512",4-32
+engine,latest,"options: 'latest', 'show engines', engine ID (long string)",
